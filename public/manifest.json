@@ -8,23 +8,22 @@
   "description": "Create your own story.",
   "icons": [
     {
-      "src": "./icons/maskable_icon_x128.png",
+      "src": "./icons/icon_x128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./icons/maskable_icon_x192.png",
+      "src": "./icons/icon_x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "./icons/maskable_icon_x404.png",
+      "src": "./icons/icon_x404.png",
       "sizes": "404x404",
       "type": "image/png"
     },
     {
-      "src": "./icons/maskable_icon_x512.png",
+      "src": "./icons/icon_x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
