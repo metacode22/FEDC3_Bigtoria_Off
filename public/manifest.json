@@ -1,0 +1,27 @@
+{
+  "name": "Bigtoria",
+  "short_name": "Bigtoria",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f5f8",
+  "theme_color": "#F99B0F",
+  "description": "Create your own story.",
+  "icons": [
+    {
+      "src": "./icons/maskable_icon_x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./icons/maskable_icon_x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/maskable_icon_x404.png",
+      "sizes": "404x404",
+      "type": "image/png"
+    }
+  ]
+}
